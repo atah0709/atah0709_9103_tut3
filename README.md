@@ -1,15 +1,4 @@
 # atah0709_9103_tut3
-My first repository for IDEA 9103
-
-This is my first local change to the repo. 
-![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
-
-```
-function helloWorld() {
-console.log("Hello, world!");
-}
-```
-> This is a blockquote.
 
 # Quiz 8 Submission: Imaging and Coding Technique Exploration
 
@@ -28,4 +17,4 @@ Implement halftone in p5.js by analyzing image brightness per pixel, mapping val
 
 Example code implementation: [Interactive Halftone](https://editor.p5js.org/chrsgrbr/sketches/mLNDLCYys)
 
-Screenshot showcasing the coding technique: ![Screenshot showcasing the coding technique:](readmeImages/quiz8_coding_technique_ss.jpg)
+Screenshot showcasing the coding technique: ![Screenshot showcasing the coding technique:](readmeImages/quiz8_coding_technique_ss.png)
